@@ -1,3 +1,7 @@
 file1.txt naveen chary
 
+<<<<<<< HEAD
 change made by me
+=======
+github chnages
+>>>>>>> d0621914ae0abc1f867c2067b100d1e4a4152412
